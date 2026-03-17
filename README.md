@@ -1,2 +1,8 @@
 # Project-Retail-Data-Platform-Optimization
-raw → processed → analytics
+Raw Data (CSV)
+   ↓
+ETL (Python / SQL)
+   ↓
+Data Warehouse (MySQL)
+   ↓
+Analytics (Power BI)
